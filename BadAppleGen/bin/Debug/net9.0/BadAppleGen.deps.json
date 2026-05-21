@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BadAppleGen/1.0.0": {
+        "runtime": {
+          "BadAppleGen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BadAppleGen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

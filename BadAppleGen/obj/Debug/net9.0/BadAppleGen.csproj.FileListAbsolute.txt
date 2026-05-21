@@ -1,0 +1,14 @@
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\bin\Debug\net9.0\BadAppleGen.exe
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\bin\Debug\net9.0\BadAppleGen.deps.json
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\bin\Debug\net9.0\BadAppleGen.runtimeconfig.json
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\bin\Debug\net9.0\BadAppleGen.dll
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\bin\Debug\net9.0\BadAppleGen.pdb
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\BadAppleGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\BadAppleGen.AssemblyInfoInputs.cache
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\BadAppleGen.AssemblyInfo.cs
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\BadAppleGen.csproj.CoreCompileInputs.cache
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\BadAppleGen.dll
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\refint\BadAppleGen.dll
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\BadAppleGen.pdb
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\BadAppleGen.genruntimeconfig.cache
+C:\Users\capbe\Downloads\Bad Apple ASCII\BadAppleGen\obj\Debug\net9.0\ref\BadAppleGen.dll
