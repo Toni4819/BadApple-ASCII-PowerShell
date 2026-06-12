@@ -1,5 +1,8 @@
 # BadApple-ASCII-Terminal (No dependency)
 
+At first I wanted to make the generator in python, but the generation time was very long, so I decided to continue with c which is much more efficient. 
+Claude AI helped me write the C code, but the original idea is still mine.
+
 ## Windows
 
 ### PowerShell
